@@ -1,9 +1,19 @@
+body {
+	background-image: url(background.gif);
+	padding-bottom: 100px;
+}
+.title {
+	padding: 25px
+}
 .textbox {
 	height: auto;
 	width: 200px;
 }
 h1 {
 	font-family: 'Syncopate', sans-serif;
+	background-color: black;
+	color: white;
+	margin-top: 0px;
 }
 p {
 	font-family: 'Average', serif;
@@ -12,8 +22,28 @@ p {
 #intro {
 	padding-right: 100px;
 	padding-left: 100px;
+	padding-top: 50px
 }
 .textbox-pad {
 	padding-right: 50px;
 	padding-left: 50px;
+}
+#profile-pic {
+	padding: 10px;
+	height: 300px;
+	width: auto;
+}
+.philosophy {
+	padding-top: 20px;
+	background-color: black;
+	color: white;
+}
+.philosophy h2 {
+	text-align: middle;
+	vertical-align: text-middle;
+	color: white;
+}
+#knowme {
+	background-color: black;
+	color: white;
 }

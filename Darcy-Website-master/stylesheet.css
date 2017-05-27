@@ -1,0 +1,19 @@
+.textbox {
+	height: auto;
+	width: 200px;
+}
+h1 {
+	font-family: 'Syncopate', sans-serif;
+}
+p {
+	font-family: 'Average', serif;
+	font-size: 120%;
+}
+#intro {
+	padding-right: 100px;
+	padding-left: 100px;
+}
+.textbox-pad {
+	padding-right: 50px;
+	padding-left: 50px;
+}
